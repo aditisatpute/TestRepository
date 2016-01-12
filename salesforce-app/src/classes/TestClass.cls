@@ -1,3 +1,6 @@
+/**
+ * Test Class to verify the functionality
+ */
 @isTest
 public class TestClass {
     static testMethod void testController() {
