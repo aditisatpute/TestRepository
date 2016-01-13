@@ -1,3 +1,6 @@
+/**
+ * Add comment for this Test class
+ */
 @isTest
 public class TestClass {
     static testMethod void testController() {
