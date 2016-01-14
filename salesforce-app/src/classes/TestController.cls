@@ -1,5 +1,5 @@
 /**
- * Develop Branch comment
+ * Class to retrieve List of Contact records 
  */
 public with sharing class TestController {
     @RemoteAction
